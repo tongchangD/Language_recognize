@@ -233,7 +233,7 @@ tensorboard==1.13.1
 tensorboardX==1.8
 tensorflow==1.13.2
 tensorflow-estimator1.13.0
-tensorflow-gpu==2.0.0
+tensorflow-gpu==2.4.0
 termcolor==1.1.0
 terminado==0.8.2
 terminaltables==3.1.0
