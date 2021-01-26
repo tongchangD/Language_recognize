@@ -231,7 +231,7 @@ synonyms==3.10.2
 tabulate==0.8.7
 tensorboard==1.13.1
 tensorboardX==1.8
-tensorflow==1.13.2
+tensorflow==2.4.0
 tensorflow-estimator1.13.0
 tensorflow-gpu==2.0.0
 termcolor==1.1.0
