@@ -107,7 +107,7 @@ klein==17.10.0
 librosa==0.7.0
 llvmlite==0.29.0
 lucene==7.5.0
-lxml==4.4.0
+lxml==4.6.2
 marisa-trie==0.7.5
 Markdown==3.2.1
 MarkupSafe==1.1.1
