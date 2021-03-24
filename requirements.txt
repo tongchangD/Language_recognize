@@ -197,7 +197,7 @@ requests-oauthlib1.3.0
 requests-toolbelt0.9.1
 resampy==0.2.1
 rocketchat-API==0.6.36
-rsa==4.0
+rsa==4.1
 ruamel.yaml==0.15.100
 s3transfer==0.2.1
 sacrebleu==1.4.9
