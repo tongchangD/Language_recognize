@@ -164,7 +164,7 @@ pycparser==2.19
 pydot==1.4.1
 pydub==0.23.1
 pyglet==1.3.2
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==2.0.2
 PyJWT==1.7.1
 pykwalify==1.7.0
