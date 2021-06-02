@@ -257,7 +257,7 @@ typing-extensions3.7.4
 tzlocal==2.0.0
 ujson==2.0.3
 urljoin==1.0.0
-urllib3==1.24.3
+urllib3==1.26.5
 uvloop==0.14.0
 visdom==0.1.8.9
 wasabi==0.2.2
